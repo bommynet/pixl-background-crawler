@@ -11,7 +11,7 @@
     "author": "Thomas Borck",
     "license": "ISC",
     "devDependencies": {
-        "electron": "^7.0.0",
+        "electron": "^9.4.0",
         "electron-packager": "^14.0.6"
     }
 }
